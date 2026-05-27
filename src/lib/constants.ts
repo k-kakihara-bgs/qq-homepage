@@ -12,20 +12,20 @@ export const SITE_INFO = {
 
 export const BUSINESS_HOURS = {
   quinto: {
-    name: "Gastronomia Quinto（食材店）",
+    name: "クイント（食材店）",
     hours: [
-      { day: "月〜金", time: "10:00 〜 19:00" },
+      { day: "水〜金", time: "10:00 〜 19:00" },
       { day: "土・日・祝", time: "10:00 〜 20:00" },
     ],
-    closed: "不定休（お知らせをご確認ください）",
+    closed: "月曜・火曜定休（祝日の場合は翌日）",
   },
   quinte: {
-    name: "Degusteria Quinte（レストラン）",
+    name: "クインテ（レストラン）",
     hours: [
       { day: "ランチ", time: "11:30 〜 14:00（L.O. 13:30）" },
-      { day: "ディナー", time: "18:00 〜 22:00（L.O. 21:00）" },
+      { day: "ディナー", time: "18:00 〜 23:00（L.O. 22:00）" },
     ],
-    closed: "月曜定休（祝日の場合は翌火曜）",
+    closed: "月曜・火曜定休（祝日の場合は翌日）",
   },
 };
 
@@ -34,7 +34,7 @@ export const NAV_LINKS = [
   { href: "/shop", label: "ショップ" },
   { href: "/menu", label: "レストラン" },
   { href: "/access", label: "アクセス・お問い合わせ" },
-  { href: "/events", label: "イベント" },
+  { href: "/events", label: "イベント・お知らせ" },
   { href: "/recruit", label: "採用情報" },
 ];
 

@@ -20,7 +20,7 @@ export const shopCategories: ShopCategory[] = [
     id: "souzai",
     title: "自家製惣菜・菓子",
     titleIt: "Gastronomia",
-    description: "厨房の即興と、マーケットの棚。そのふたつが交差する中から生まれた一期一会のフードたち。棚にあるユニークな食材たちと自由に掛け合わせる、QQならではの「美味しい循環」です。",
+    description: "厨房の即興と、マーケットの棚。そのふたつが交差する中から生まれた一期一会のフードたち。棚にあるユニークな食材たちと自由に掛け合わせる、QQ（クイント・クインテ）ならではの「美味しい循環」です。",
     products: [
       {
         name: "本日の自家製惣菜",
@@ -94,7 +94,7 @@ export const shopCategories: ShopCategory[] = [
     id: "wine-food",
     title: "ワイン・食材",
     titleIt: "Vini e Prodotti",
-    description: "世界各地の風土を映すワインと、食卓の実験を愉しむためのユニークな食材。惣菜やチーズと出逢うことで物語が動き出す、QQならではの「美味しい循環」を支える引き出しです。",
+    description: "世界各地の風土を映すワインと、食卓の実験を愉しむためのユニークな食材。惣菜やチーズと出逢うことで物語が動き出す、QQ（クイント・クインテ）ならではの「美味しい循環」を支える引き出しです。",
     products: [
       {
         name: "厳選ワイン",

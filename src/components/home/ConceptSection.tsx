@@ -32,7 +32,7 @@ export function ConceptSection() {
             <br />
             ふっと自然な呼吸を取り戻す。
             <br />
-            それが、QQ です。
+            それが、QQ（クイント・クインテ）です。
           </p>
           <p className="font-heading italic text-gold-light text-xl md:text-2xl mt-12 tracking-wide leading-relaxed">
             &ldquo;本の中の自由を包み込むブックカバーのように、
