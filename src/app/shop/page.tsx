@@ -16,9 +16,8 @@ export default function ShopPage() {
     <>
       <PageHeader
         title="Quinto"
-        titleReading="ガストロノミア・クイント"
-        titleSmall="Gastronomia"
-        titleIt="Shop"
+        titleReading="クイント"
+        titleIt="Gastronomia"
         subtitle="厨房の即興から届くデリを、棚のユニークなグロッサリーと重ねて持ち帰る食材店"
         imageSrc={IMAGES.quinto}
         imageAlt="Gastronomia Quinto 食材店"
