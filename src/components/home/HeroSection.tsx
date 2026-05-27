@@ -47,7 +47,7 @@ export function HeroSection() {
           transition={{ duration: 0.8, delay: 0.7 }}
           className="text-cream/70 text-sm md:text-base tracking-wider mb-12 max-w-xl mx-auto"
         >
-          食材店 Gastronomia Quinto と、レストラン Degusteria Quinte。
+          食材店 Gastronomia Quinto（クイント） と、レストラン Degusteria Quinte（クインテ）。
           <br className="hidden md:block" />
           ふたつの顔が、ひとつになる新しい場所。
         </motion.p>

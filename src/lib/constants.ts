@@ -12,7 +12,7 @@ export const SITE_INFO = {
 
 export const BUSINESS_HOURS = {
   quinto: {
-    name: "クイント（食材店）",
+    name: "食材店 Quinto（クイント）",
     hours: [
       { day: "水〜金", time: "10:00 〜 19:00" },
       { day: "土・日・祝", time: "10:00 〜 20:00" },
@@ -20,7 +20,7 @@ export const BUSINESS_HOURS = {
     closed: "月曜・火曜定休（祝日の場合は翌日）",
   },
   quinte: {
-    name: "クインテ（レストラン）",
+    name: "レストラン Quinte（クインテ）",
     hours: [
       { day: "ランチ", time: "11:30 〜 14:00（L.O. 13:30）" },
       { day: "ディナー", time: "18:00 〜 23:00（L.O. 22:00）" },

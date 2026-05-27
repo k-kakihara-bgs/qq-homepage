@@ -30,7 +30,7 @@ const events = [
     date: "2026年8月",
     category: "オープン",
     title: "グランドオープン予定",
-    description: "池下の路地裏に、新しい場所が生まれます。イタリア食材店「Gastronomia Quinto」とレストラン「Degusteria Quinte」が同時オープン。",
+    description: "池下の路地裏に、新しい場所が生まれます。イタリア食材店「Gastronomia Quinto（クイント）」とレストラン「Degusteria Quinte（クインテ）」が併設するQQ（クイント・クインテ）がオープン。",
     link: { href: "/access", label: "アクセスを確認する" },
   },
 ];
@@ -47,7 +47,7 @@ export default function EventsPage() {
       <PageHeader
         title="イベント・お知らせ"
         titleIt="Events & News"
-        subtitle="QQ Quinto.Quinteからの最新情報をお届けします"
+        subtitle="QQ（クイント・クインテ）からの最新情報をお届けします"
         imageSrc={IMAGES.events}
         imageAlt="QQイベント・お知らせ"
       />

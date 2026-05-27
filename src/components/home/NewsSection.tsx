@@ -6,7 +6,7 @@ const news = [
   {
     date: "2026.06",
     category: "お知らせ",
-    title: "QQ（Quinto.Quinte）オープニングスタッフ募集中",
+    title: "QQ（クイント・クインテ）オープニングスタッフ募集中",
     href: "/recruit",
   },
   {
