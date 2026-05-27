@@ -16,9 +16,8 @@ export default function MenuPage() {
     <>
       <PageHeader
         title="Quinte"
-        titleReading="デグステリア・クインテ"
-        titleSmall="Degusteria"
-        titleIt="Restaurant"
+        titleReading="クインテ"
+        titleIt="Degusteria"
         subtitle="素材が皿へと飛び出す舞台袖で、シェフの自由な手仕事とワインの対話にふれるレストラン"
         imageSrc={IMAGES.quinte}
         imageAlt="Degusteria Quinte レストラン"
