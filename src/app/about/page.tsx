@@ -42,13 +42,13 @@ export default function AboutPage() {
               <p>
                 家でも、職場や学校でも、よく行くカフェでも、バーチャルな場所でもない——
                 <br />
-                <strong className="text-ink font-medium">「5番目の場所」</strong>。それがQQのはじまりです。
+                <strong className="text-ink font-medium">「5番目の場所」</strong>。それがQQ（クイント・クインテ）のはじまりです。
               </p>
               <p>
                 レストランで見つけた面白い味やアイデアを、マーケットの棚から選んで、家で気ままに試してみる。そんな風に、非日常のワクワクをいつもの暮らしへと地続きで持ち帰るスタイルが、知らず知らずのうちに、呼吸をすっきりと整えていくということもあるのかもしれない。
               </p>
               <p>
-                イタリア食材店「<strong className="text-green-deep font-medium">Gastronomia Quinto（クィント）</strong>」と、レストラン「<strong className="text-green-deep font-medium">Degusteria Quinte（クィンテ）</strong>」。ふたつが一つになり、流動的に循環するこの新しいスタイルの店舗を、名古屋・池下にオープンします。
+                食材店「<strong className="text-green-deep font-medium">Quinto（クイント）</strong>」と、レストラン「<strong className="text-green-deep font-medium">Quinte（クインテ）</strong>」。ふたつが一つになり、流動的に循環するこの新しいスタイルの店舗を、名古屋・池下にオープンします。
               </p>
             </div>
           </AnimatedSection>

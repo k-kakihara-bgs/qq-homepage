@@ -3,7 +3,7 @@ export const SITE_INFO = {
   nameShort: "QQ",
   tagline: "池下の路地裏で、イタリアの『おいしい』を自由にハシゴする。",
   address: "愛知県名古屋市千種区池下1-6-6",
-  access: "名古屋市営地下鉄東山線「池下駅」徒歩圏内",
+  access: "名古屋市営地下鉄東山線「池下駅」徒歩4分",
   tel: "",
   email: "k-kakihara@bgs-jpn.net",
   instagramUrl: "https://www.instagram.com/qq.ikeshita/",
@@ -17,7 +17,7 @@ export const BUSINESS_HOURS = {
       { day: "水〜金", time: "10:00 〜 19:00" },
       { day: "土・日・祝", time: "10:00 〜 20:00" },
     ],
-    closed: "月曜・火曜定休（祝日の場合は翌日）",
+    closed: "月曜定休（祝日の場合は翌日）",
   },
   quinte: {
     name: "レストラン Quinte（クインテ）",
